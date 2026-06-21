@@ -1,4 +1,4 @@
-# Learn Microsoft Excel for Data Analysis
+# Learn Microsoft Excel for data analysis
 
 Off-platform Codecademy course on data analysis fundamentals using Microsoft Excel, covering exploration, visualization, data handling, and real-world projects.
 
